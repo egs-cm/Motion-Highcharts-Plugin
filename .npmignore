@@ -1,0 +1,14 @@
+.github
+.vscode
+source
+spec
+typings
+**/*.map
+tsconfig.json
+typings.json
+gulpfile.js
+example
+example.js
+
+demos/
+screenshots/
