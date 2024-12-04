@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larsac07/Motion-Highcharts-Plugin.git"
+    "url": "git+ssh://git@github.com/egs-cm/Motion-Highcharts-Plugin.git"
   },
   "keywords": ["motion", "moving", "move", "timeline", "html5", "player", "play", "live", "slider"],
   "author": {
@@ -19,5 +19,21 @@
   "bugs": {
     "url": "https://github.com/larsac07/Motion-Highcharts-Plugin/issues"
   },
-  "homepage": "https://github.com/larsac07/Motion-Highcharts-Plugin#readme"
+  "homepage": "https://github.com/larsac07/Motion-Highcharts-Plugin#readme",
+  "contributors": [
+    {
+      "name": "ems-ja",
+      "url": "https://github.com/ems-ja"
+    },
+    {
+      "name": "egs-cm",
+      "url": "https://github.com/egs-cm"
+    }
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "highcharts": "4.1"
+  }
 }
