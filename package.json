@@ -1,6 +1,6 @@
 {
   "name": "@egs-cm/motion-highcharts-plugin",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Adds an interactive HTML5 player to the chart.",
   "main": "motion.js",
   "scripts": {
@@ -10,10 +10,20 @@
     "type": "git",
     "url": "git+ssh://git@github.com/egs-cm/Motion-Highcharts-Plugin.git"
   },
-  "keywords": ["motion", "moving", "move", "timeline", "html5", "player", "play", "live", "slider"],
+  "keywords": [
+    "motion",
+    "moving",
+    "move",
+    "timeline",
+    "html5",
+    "player",
+    "play",
+    "live",
+    "slider"
+  ],
   "author": {
-      "name": "Lars Cabrera",
-      "url": "https://github.com/larsac07/Motion-Highcharts-Plugin"
+    "name": "Lars Cabrera",
+    "url": "https://github.com/larsac07/Motion-Highcharts-Plugin"
   },
   "license": "CC-BY-SA-4.0",
   "bugs": {
@@ -34,6 +44,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "peerDependencies": {
-    "highcharts": "4.1"
+    "highcharts": ">4.1"
   }
 }
