@@ -1,5 +1,5 @@
 {
-  "name": "motion-highcharts-plugin",
+  "name": "@egs-cm/motion-highcharts-plugin",
   "version": "1.0.8",
   "description": "Adds an interactive HTML5 player to the chart.",
   "main": "motion.js",
